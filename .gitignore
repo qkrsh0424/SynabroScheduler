@@ -1,0 +1,4 @@
+#node modules
+/node_modules
+#appsync key
+/src/aws-exports.js
